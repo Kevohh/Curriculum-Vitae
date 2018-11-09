@@ -1,0 +1,20 @@
+html{
+	background:currentColor;
+	border:10px dashed lime;
+
+}
+h1{
+	background-color: green;
+	font-family: hervida;
+	font-size: 50px;
+	text-shadow: 4px 4px 6px blue;
+
+}
+.marquee{
+	scroll-behavior: smooth;
+
+}
+body{
+	background-image: ;
+
+}
