@@ -4,6 +4,7 @@ html{
 	background-blend-mode: overlay;
 	border:none;
 	background-origin:padding-box;
+	background-repeat: none;
 
 }
 h1{
@@ -58,12 +59,14 @@ brand{
 	text-shadow: blue;
 	background-color: pink;
 
+
 }
 img{
 	border-radius: 50px;
 	height: 90px;
 	width: 90px;
 	margin-top: ;
+	background-repeat: none;
 }
 .dropbtn{
 	  position: relative;
@@ -193,6 +196,7 @@ body{
 	background-attachment: scroll;
 	border:;
 	margin: 10px 2%;
+	background-repeat: none;
 }
 li{
 	font-family: initial
